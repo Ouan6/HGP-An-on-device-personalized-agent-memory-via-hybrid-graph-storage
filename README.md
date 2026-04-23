@@ -1,2 +1,2 @@
-# HGP-An-on-device-personalized-agent-memory-via-hybrid-graph-storage
+# HGP
 The code will be available soon!
